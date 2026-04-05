@@ -1,0 +1,6 @@
+amneziavpn-bin
+bibata-cursor-theme
+bitwarden-bin
+bruno
+happ-desktop-bin
+obsidian-bin
