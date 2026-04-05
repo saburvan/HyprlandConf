@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PhpStorm
+Comment=JetBrains PhpStorm IDE
+Exec=env GDK_BACKEND=x11 _JAVA_AWT_WM_NONREPARENTING=1 /home/saburvan/Документы/JetBrains/PhpStorm-253.31033.138/bin/phpstorm.sh %f
+Icon=/home/saburvan/Документы/JetBrains/PhpStorm-253.31033.138/bin/phpstorm.svg
+Terminal=false
+Type=Application
+Categories=Development;IDE;
+StartupNotify=true

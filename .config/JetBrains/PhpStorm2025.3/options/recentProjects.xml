@@ -1,0 +1,74 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – index.php" projectWorkspaceId="3AwTHs7gWM7hlaL44KXvd8Q14Cn">
+              <option name="activationTimestamp" value="1773504175823" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-253.31033.138" />
+              <option name="buildTimestamp" value="1771492860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="386" y="67" width="1507" height="1106" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1773502549198" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Документы/ShoeStoreLaravel">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ShoeStoreLaravel" projectWorkspaceId="3B7JzPq5K5BeH7CAcGkIr3BejZd">
+              <option name="activationTimestamp" value="1773996399612" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-253.31033.138" />
+              <option name="buildTimestamp" value="1771492860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="25" y="86" width="1870" height="1088" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1773834436554" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Документы/!СОРТИРОВКА/react/vite-project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="vite-project" projectWorkspaceId="3B1btWoxTpffS6aLk5GhKFFMSIg">
+              <option name="activationTimestamp" value="1774593562296" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-253.31033.138" />
+              <option name="buildTimestamp" value="1771492860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="19" y="80" width="1568" height="917" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1774555333986" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/srv/http">
+          <value>
+            <RecentProjectMetaInfo frameTitle="http – CategoryController.php" opened="true" projectWorkspaceId="3Bqk5LAQRdGdLWKmLEfo7eBN926">
+              <option name="activationTimestamp" value="1775336610204" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-253.31033.138" />
+              <option name="buildTimestamp" value="1771492860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="19" y="80" width="1568" height="917" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1774880219161" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="/srv/http" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>

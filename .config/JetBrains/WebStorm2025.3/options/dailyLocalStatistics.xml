@@ -1,0 +1,979 @@
+<application>
+  <component name="DailyLocalStatistics">
+    <dateToStats>
+      <entry key="2026-3-18-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="Language: HTML" value="98" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="95" />
+                  <entry key="INVALIDATED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="false" value="98" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-10">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="274" />
+                <distribution>
+                  <entry key="Language: CSS" value="145" />
+                  <entry key="Language: HTML" value="129" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="274" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="194" />
+                  <entry key="INVALIDATED" value="60" />
+                  <entry key="SELECTED" value="17" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="249.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="17.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="274" />
+                <distribution>
+                  <entry key="false" value="233" />
+                  <entry key="true" value="41" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1367" />
+                <distribution>
+                  <entry key="Language: CSS" value="119" />
+                  <entry key="Language: ECMAScript 6" value="1106" />
+                  <entry key="Language: HTML" value="142" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1367" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="772" />
+                  <entry key="INVALIDATED" value="519" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="64" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="139" />
+                <option name="sum" value="1325.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="139" />
+                <option name="sum" value="64.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1367" />
+                <distribution>
+                  <entry key="false" value="1228" />
+                  <entry key="true" value="139" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1095" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="998" />
+                  <entry key="Language: HTML" value="97" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1095" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="5" />
+                  <entry key="EMPTY" value="565" />
+                  <entry key="INVALIDATED" value="488" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="35" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="83" />
+                <option name="sum" value="804.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="83" />
+                <option name="sum" value="35.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1095" />
+                <distribution>
+                  <entry key="false" value="1012" />
+                  <entry key="true" value="83" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1286" />
+                <distribution>
+                  <entry key="Language: CSS" value="538" />
+                  <entry key="Language: ECMAScript 6" value="331" />
+                  <entry key="Language: HTML" value="417" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1286" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="911" />
+                  <entry key="INVALIDATED" value="297" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="63" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="150" />
+                <option name="sum" value="862.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="150" />
+                <option name="sum" value="63.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1286" />
+                <distribution>
+                  <entry key="false" value="1136" />
+                  <entry key="true" value="150" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1070" />
+                <distribution>
+                  <entry key="Language: CSS" value="83" />
+                  <entry key="Language: ECMAScript 6" value="902" />
+                  <entry key="Language: HTML" value="85" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1070" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="13" />
+                  <entry key="CARET_CHANGED" value="4" />
+                  <entry key="EMPTY" value="547" />
+                  <entry key="INVALIDATED" value="451" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="44" />
+                  <entry key="TYPED" value="7" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="115" />
+                <option name="sum" value="825.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="115" />
+                <option name="sum" value="44.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1070" />
+                <distribution>
+                  <entry key="false" value="955" />
+                  <entry key="true" value="115" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="616" />
+                <distribution>
+                  <entry key="Language: CSS" value="30" />
+                  <entry key="Language: ECMAScript 6" value="499" />
+                  <entry key="Language: HTML" value="87" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="616" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="3" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="319" />
+                  <entry key="INVALIDATED" value="253" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="34" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="78" />
+                <option name="sum" value="785.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="78" />
+                <option name="sum" value="34.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="616" />
+                <distribution>
+                  <entry key="false" value="538" />
+                  <entry key="true" value="78" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-23-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="61" />
+                  <entry key="Language: HTML" value="37" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="EMPTY" value="71" />
+                  <entry key="INVALIDATED" value="23" />
+                  <entry key="SELECTED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="99.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="4.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="false" value="94" />
+                  <entry key="true" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="872" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="847" />
+                  <entry key="Language: HTML" value="25" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="872" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="9" />
+                  <entry key="CARET_CHANGED" value="6" />
+                  <entry key="EMPTY" value="343" />
+                  <entry key="INVALIDATED" value="466" />
+                  <entry key="MOUSE_PRESSED" value="9" />
+                  <entry key="SELECTED" value="39" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="104" />
+                <option name="sum" value="807.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="104" />
+                <option name="sum" value="39.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="872" />
+                <distribution>
+                  <entry key="false" value="768" />
+                  <entry key="true" value="104" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="364" />
+                <distribution>
+                  <entry key="Language: CSS" value="21" />
+                  <entry key="Language: ECMAScript 6" value="330" />
+                  <entry key="Language: HTML" value="13" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="364" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="EMPTY" value="149" />
+                  <entry key="INVALIDATED" value="196" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="11" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="27" />
+                <option name="sum" value="152.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="27" />
+                <option name="sum" value="11.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="364" />
+                <distribution>
+                  <entry key="false" value="337" />
+                  <entry key="true" value="27" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="532" />
+                <distribution>
+                  <entry key="Language: CSS" value="16" />
+                  <entry key="Language: ECMAScript 6" value="515" />
+                  <entry key="Language: HTML" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="532" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="10" />
+                  <entry key="CARET_CHANGED" value="6" />
+                  <entry key="EMPTY" value="197" />
+                  <entry key="INVALIDATED" value="292" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="25" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="396.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="25.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="532" />
+                <distribution>
+                  <entry key="false" value="491" />
+                  <entry key="true" value="41" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1476" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="1476" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1476" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="18" />
+                  <entry key="CARET_CHANGED" value="5" />
+                  <entry key="EMPTY" value="547" />
+                  <entry key="INVALIDATED" value="865" />
+                  <entry key="MOUSE_PRESSED" value="7" />
+                  <entry key="SELECTED" value="31" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="60" />
+                <option name="sum" value="420.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="60" />
+                <option name="sum" value="31.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1476" />
+                <distribution>
+                  <entry key="false" value="1416" />
+                  <entry key="true" value="60" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="87" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="87" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="87" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="34" />
+                  <entry key="INVALIDATED" value="51" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="2" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="2" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="87" />
+                <distribution>
+                  <entry key="false" value="85" />
+                  <entry key="true" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-24-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="450" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="450" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="450" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="189" />
+                  <entry key="INVALIDATED" value="227" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="20" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="33" />
+                <option name="sum" value="301.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="33" />
+                <option name="sum" value="20.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="450" />
+                <distribution>
+                  <entry key="false" value="417" />
+                  <entry key="true" value="33" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-25-10">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="591" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="591" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="591" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="7" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="214" />
+                  <entry key="INVALIDATED" value="345" />
+                  <entry key="MOUSE_PRESSED" value="8" />
+                  <entry key="SELECTED" value="15" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="33" />
+                <option name="sum" value="219.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="33" />
+                <option name="sum" value="15.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="591" />
+                <distribution>
+                  <entry key="false" value="558" />
+                  <entry key="true" value="33" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-25-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="330" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="330" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="330" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="5" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="127" />
+                  <entry key="INVALIDATED" value="189" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="5" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="15" />
+                <option name="sum" value="90.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="15" />
+                <option name="sum" value="5.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="330" />
+                <distribution>
+                  <entry key="false" value="315" />
+                  <entry key="true" value="15" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-25-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="41" />
+                  <entry key="Language: HTML" value="9" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="EMPTY" value="25" />
+                  <entry key="INVALIDATED" value="23" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="false" value="50" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-26-23">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="10" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="10" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="10" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="3" />
+                  <entry key="INVALIDATED" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="10" />
+                <distribution>
+                  <entry key="false" value="10" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-10">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="104" />
+                <distribution>
+                  <entry key="Language: HTML" value="104" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="104" />
+                <distribution>
+                  <entry key="EMPTY" value="83" />
+                  <entry key="INVALIDATED" value="19" />
+                  <entry key="SELECTED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="13.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="2.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="104" />
+                <distribution>
+                  <entry key="false" value="100" />
+                  <entry key="true" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="94" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="60" />
+                  <entry key="Language: HTML" value="34" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="94" />
+                <distribution>
+                  <entry key="EMPTY" value="70" />
+                  <entry key="INVALIDATED" value="23" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="5" />
+                <option name="sum" value="34.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="5" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="94" />
+                <distribution>
+                  <entry key="false" value="89" />
+                  <entry key="true" value="5" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-10">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="114" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="92" />
+                  <entry key="Language: HTML" value="22" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="114" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="61" />
+                  <entry key="INVALIDATED" value="41" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="9" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="18" />
+                <option name="sum" value="169.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="18" />
+                <option name="sum" value="9.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="114" />
+                <distribution>
+                  <entry key="false" value="96" />
+                  <entry key="true" value="18" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+    </dateToStats>
+  </component>
+</application>

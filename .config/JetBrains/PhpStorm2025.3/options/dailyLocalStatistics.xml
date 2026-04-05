@@ -1,0 +1,1435 @@
+<application>
+  <component name="DailyLocalStatistics">
+    <dateToStats>
+      <entry key="2026-3-14-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="15" />
+                <distribution>
+                  <entry key="Language: HTML" value="1" />
+                  <entry key="Language: PHP" value="14" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="15" />
+                <distribution>
+                  <entry key="EMPTY" value="9" />
+                  <entry key="INVALIDATED" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="15" />
+                <distribution>
+                  <entry key="false" value="15" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-14-20">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="Language: PHP" value="9" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="EMPTY" value="6" />
+                  <entry key="INVALIDATED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="false" value="9" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="511" />
+                <distribution>
+                  <entry key="Language: PHP" value="511" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="511" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EDITOR_REMOVED" value="1" />
+                  <entry key="EMPTY" value="253" />
+                  <entry key="INVALIDATED" value="207" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="39" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="75" />
+                <option name="sum" value="1081.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="75" />
+                <option name="sum" value="39.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="511" />
+                <distribution>
+                  <entry key="false" value="436" />
+                  <entry key="true" value="75" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="121" />
+                <distribution>
+                  <entry key="Language: PHP" value="121" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="121" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="77" />
+                  <entry key="INVALIDATED" value="33" />
+                  <entry key="SELECTED" value="8" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="105.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="8.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="121" />
+                <distribution>
+                  <entry key="false" value="109" />
+                  <entry key="true" value="12" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1277" />
+                <distribution>
+                  <entry key="Language: PHP" value="1277" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1277" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="8" />
+                  <entry key="CARET_CHANGED" value="7" />
+                  <entry key="EMPTY" value="590" />
+                  <entry key="INVALIDATED" value="624" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="44" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="104" />
+                <option name="sum" value="991.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="104" />
+                <option name="sum" value="44.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1277" />
+                <distribution>
+                  <entry key="false" value="1173" />
+                  <entry key="true" value="104" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="211" />
+                <distribution>
+                  <entry key="Language: CSS" value="62" />
+                  <entry key="Language: PHP" value="149" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="211" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="EMPTY" value="122" />
+                  <entry key="INVALIDATED" value="71" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="14" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="27" />
+                <option name="sum" value="312.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="27" />
+                <option name="sum" value="14.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="211" />
+                <distribution>
+                  <entry key="false" value="184" />
+                  <entry key="true" value="27" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="388" />
+                <distribution>
+                  <entry key="Language: CSS" value="78" />
+                  <entry key="Language: PHP" value="310" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="388" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="225" />
+                  <entry key="INVALIDATED" value="134" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="22" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="56" />
+                <option name="sum" value="571.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="56" />
+                <option name="sum" value="22.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="388" />
+                <distribution>
+                  <entry key="false" value="332" />
+                  <entry key="true" value="56" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="38" />
+                <distribution>
+                  <entry key="Language: PHP" value="38" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="38" />
+                <distribution>
+                  <entry key="EMPTY" value="25" />
+                  <entry key="INVALIDATED" value="9" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="6" />
+                <option name="sum" value="45.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="6" />
+                <option name="sum" value="3.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="38" />
+                <distribution>
+                  <entry key="false" value="32" />
+                  <entry key="true" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-20-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="48" />
+                <distribution>
+                  <entry key="Language: CSS" value="40" />
+                  <entry key="Language: PHP" value="8" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="48" />
+                <distribution>
+                  <entry key="EMPTY" value="35" />
+                  <entry key="INVALIDATED" value="12" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="1" />
+                <option name="sum" value="16.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="1" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="48" />
+                <distribution>
+                  <entry key="false" value="47" />
+                  <entry key="true" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="133" />
+                <distribution>
+                  <entry key="Language: CSS" value="121" />
+                  <entry key="Language: PHP" value="12" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="133" />
+                <distribution>
+                  <entry key="EMPTY" value="101" />
+                  <entry key="INVALIDATED" value="32" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="133" />
+                <distribution>
+                  <entry key="false" value="133" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="493" />
+                <distribution>
+                  <entry key="Language: CSS" value="237" />
+                  <entry key="Language: PHP" value="256" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="493" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="3" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="302" />
+                  <entry key="INVALIDATED" value="157" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="26" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="53" />
+                <option name="sum" value="717.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="53" />
+                <option name="sum" value="26.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="493" />
+                <distribution>
+                  <entry key="false" value="440" />
+                  <entry key="true" value="53" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="79" />
+                <distribution>
+                  <entry key="Language: ECMAScript 6" value="8" />
+                  <entry key="Language: PHP" value="71" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="79" />
+                <distribution>
+                  <entry key="EMPTY" value="50" />
+                  <entry key="INVALIDATED" value="25" />
+                  <entry key="SELECTED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="7" />
+                <option name="sum" value="58.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="7" />
+                <option name="sum" value="4.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="79" />
+                <distribution>
+                  <entry key="false" value="72" />
+                  <entry key="true" value="7" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="Language: CSS" value="65" />
+                  <entry key="Language: ECMAScript 6" value="174" />
+                  <entry key="Language: HTML" value="11" />
+                  <entry key="Language: PHP" value="151" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="251" />
+                  <entry key="INVALIDATED" value="127" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="14" />
+                  <entry key="TYPED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="37" />
+                <option name="sum" value="273.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="37" />
+                <option name="sum" value="14.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="false" value="364" />
+                  <entry key="true" value="37" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="235" />
+                <distribution>
+                  <entry key="Language: CSS" value="26" />
+                  <entry key="Language: PHP" value="209" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="235" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="147" />
+                  <entry key="INVALIDATED" value="72" />
+                  <entry key="SELECTED" value="11" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="30" />
+                <option name="sum" value="167.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="30" />
+                <option name="sum" value="11.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="235" />
+                <distribution>
+                  <entry key="false" value="205" />
+                  <entry key="true" value="30" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="526" />
+                <distribution>
+                  <entry key="Language: BladeHTML" value="186" />
+                  <entry key="Language: CSS" value="253" />
+                  <entry key="Language: PHP" value="87" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="526" />
+                <distribution>
+                  <entry key="EMPTY" value="376" />
+                  <entry key="INVALIDATED" value="138" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="10" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="13" />
+                <option name="sum" value="268.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="13" />
+                <option name="sum" value="10.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="526" />
+                <distribution>
+                  <entry key="false" value="513" />
+                  <entry key="true" value="13" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-3-21-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="286" />
+                <distribution>
+                  <entry key="Language: PHP" value="286" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="286" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="EMPTY" value="172" />
+                  <entry key="INVALIDATED" value="98" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="11" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="19" />
+                <option name="sum" value="341.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="19" />
+                <option name="sum" value="11.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="286" />
+                <distribution>
+                  <entry key="false" value="267" />
+                  <entry key="true" value="19" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="837" />
+                <distribution>
+                  <entry key="Language: PHP" value="837" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="837" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="11" />
+                  <entry key="CARET_CHANGED" value="4" />
+                  <entry key="EMPTY" value="323" />
+                  <entry key="INVALIDATED" value="405" />
+                  <entry key="MOUSE_PRESSED" value="5" />
+                  <entry key="SELECTED" value="87" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="172" />
+                <option name="sum" value="1892.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="172" />
+                <option name="sum" value="87.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="837" />
+                <distribution>
+                  <entry key="false" value="665" />
+                  <entry key="true" value="172" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="653" />
+                <distribution>
+                  <entry key="Language: PHP" value="653" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="653" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="14" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="392" />
+                  <entry key="INVALIDATED" value="204" />
+                  <entry key="MOUSE_PRESSED" value="5" />
+                  <entry key="SELECTED" value="33" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="93" />
+                <option name="sum" value="733.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="93" />
+                <option name="sum" value="33.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="653" />
+                <distribution>
+                  <entry key="false" value="560" />
+                  <entry key="true" value="93" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="237" />
+                <distribution>
+                  <entry key="Language: PHP" value="237" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="237" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="118" />
+                  <entry key="INVALIDATED" value="83" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="27" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="54" />
+                <option name="sum" value="611.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="54" />
+                <option name="sum" value="27.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="237" />
+                <distribution>
+                  <entry key="false" value="183" />
+                  <entry key="true" value="54" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="11" />
+                <distribution>
+                  <entry key="Language: PHP" value="11" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="11" />
+                <distribution>
+                  <entry key="EMPTY" value="8" />
+                  <entry key="INVALIDATED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="11" />
+                <distribution>
+                  <entry key="false" value="11" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-18">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="621" />
+                <distribution>
+                  <entry key="Language: PHP" value="621" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="621" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="352" />
+                  <entry key="INVALIDATED" value="247" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="19" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="32" />
+                <option name="sum" value="415.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="32" />
+                <option name="sum" value="19.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="621" />
+                <distribution>
+                  <entry key="false" value="589" />
+                  <entry key="true" value="32" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-3-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="293" />
+                <distribution>
+                  <entry key="Language: PHP" value="293" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="293" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="129" />
+                  <entry key="INVALIDATED" value="140" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="20" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="47" />
+                <option name="sum" value="453.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="47" />
+                <option name="sum" value="20.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="293" />
+                <distribution>
+                  <entry key="false" value="246" />
+                  <entry key="true" value="47" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-10">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="645" />
+                <distribution>
+                  <entry key="Language: PHP" value="645" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="645" />
+                <distribution>
+                  <entry key="EMPTY" value="420" />
+                  <entry key="INVALIDATED" value="219" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="5" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="116.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="5.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="645" />
+                <distribution>
+                  <entry key="false" value="633" />
+                  <entry key="true" value="12" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1534" />
+                <distribution>
+                  <entry key="Language: PHP" value="1534" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1534" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="7" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="769" />
+                  <entry key="INVALIDATED" value="701" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="51" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="94" />
+                <option name="sum" value="1138.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="94" />
+                <option name="sum" value="51.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1534" />
+                <distribution>
+                  <entry key="false" value="1440" />
+                  <entry key="true" value="94" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1175" />
+                <distribution>
+                  <entry key="Language: PHP" value="1175" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1175" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="8" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="600" />
+                  <entry key="INVALIDATED" value="522" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="39" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="72" />
+                <option name="sum" value="868.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="72" />
+                <option name="sum" value="39.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1175" />
+                <distribution>
+                  <entry key="false" value="1103" />
+                  <entry key="true" value="72" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1113" />
+                <distribution>
+                  <entry key="Language: PHP" value="1113" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1113" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="5" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="518" />
+                  <entry key="INVALIDATED" value="545" />
+                  <entry key="SELECTED" value="44" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="61" />
+                <option name="sum" value="945.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="61" />
+                <option name="sum" value="44.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1113" />
+                <distribution>
+                  <entry key="false" value="1052" />
+                  <entry key="true" value="61" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="495" />
+                <distribution>
+                  <entry key="Language: PHP" value="495" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="495" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="255" />
+                  <entry key="INVALIDATED" value="204" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="29" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="690.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="41" />
+                <option name="sum" value="29.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="495" />
+                <distribution>
+                  <entry key="false" value="454" />
+                  <entry key="true" value="41" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="818" />
+                <distribution>
+                  <entry key="Language: PHP" value="818" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="818" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="11" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="384" />
+                  <entry key="INVALIDATED" value="385" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="33" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="49" />
+                <option name="sum" value="833.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="49" />
+                <option name="sum" value="33.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="818" />
+                <distribution>
+                  <entry key="false" value="769" />
+                  <entry key="true" value="49" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1374" />
+                <distribution>
+                  <entry key="Language: PHP" value="1374" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1374" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="11" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="741" />
+                  <entry key="INVALIDATED" value="584" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="34" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="55" />
+                <option name="sum" value="696.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="55" />
+                <option name="sum" value="34.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1374" />
+                <distribution>
+                  <entry key="false" value="1319" />
+                  <entry key="true" value="55" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1267" />
+                <distribution>
+                  <entry key="Language: PHP" value="1267" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1267" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="16" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="553" />
+                  <entry key="INVALIDATED" value="648" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="41" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="74" />
+                <option name="sum" value="1072.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="74" />
+                <option name="sum" value="41.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1267" />
+                <distribution>
+                  <entry key="false" value="1193" />
+                  <entry key="true" value="74" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-4-4-18">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="Language: PHP" value="50" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="29" />
+                  <entry key="INVALIDATED" value="12" />
+                  <entry key="SELECTED" value="8" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="11" />
+                <option name="sum" value="387.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="11" />
+                <option name="sum" value="8.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="50" />
+                <distribution>
+                  <entry key="false" value="39" />
+                  <entry key="true" value="11" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+    </dateToStats>
+  </component>
+</application>

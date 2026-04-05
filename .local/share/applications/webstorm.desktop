@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WebStorm
+Comment=JetBrains WebStorm IDE
+Exec=/home/saburvan/Документы/JetBrains/WebStorm-253.31033.133/bin/webstorm
+Icon=/home/saburvan/Документы/JetBrains/WebStorm-253.31033.133/bin/webstorm.svg
+Terminal=false
+Type=Application
+Categories=Development;IDE;
+StartupNotify=true

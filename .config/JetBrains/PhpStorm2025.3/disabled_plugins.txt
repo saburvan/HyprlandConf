@@ -1,0 +1,13 @@
+AngularJS
+com.intellij.ja
+com.intellij.ko
+com.intellij.mcpServer
+com.intellij.settingsSync
+com.intellij.tasks
+com.intellij.tasks.timeTracking
+com.intellij.zh
+com.jetbrains.codeWithMe
+com.jetbrains.php.drupal
+com.jetbrains.php.joomla
+com.jetbrains.php.wordPress
+hunspell

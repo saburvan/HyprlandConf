@@ -1,0 +1,1879 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="http" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3cqy8mc8e6imm">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DistrictController.php" file-id="57457" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1004">
+              <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+              <folding>
+                <element signature="e#40#78#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DistrictController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php" file-id="57334" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="236">
+              <caret line="111" column="5" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AuthController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/config/scribe.php" file-id="58307" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="332">
+              <caret line="255" column="2" lean-forward="true" selection-start-line="255" selection-start-column="2" selection-end-line="255" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"scribe.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProfileController.php" file-id="57432" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="250">
+              <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ProfileController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LandmarkController.php" file-id="57338" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="299">
+              <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LandmarkController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" file-id="57460" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="280">
+              <caret line="142" column="11" lean-forward="true" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="11" />
+              <folding>
+                <element signature="e#40#78#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CategoryController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CommentController.php" file-id="57342" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-5704">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CommentController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/routes/api.php" file-id="48002" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="266">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"api.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/RegRequest.php" file-id="57336" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RegRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PartnerController.php" file-id="57422" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1780">
+              <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"PartnerController.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/PopularLandmarksRequest.php" file-id="58367" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"PopularLandmarksRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/public/images/partners/1.jpg" file-id="58363" managing-fs="1773502176881">
+          <provider editor-type-id="images" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"1.jpg","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,102,105,108,101,84,121,112,101,115,47,105,109,97,103,101,46,115,118,103,18,25,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,109,97,103,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-90,-7,-120,-127,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Models/Partner.php" file-id="57420" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Partner.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/PartnerRequest.php" file-id="58361" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="170">
+              <caret line="42" column="22" selection-end-line="50" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"PartnerRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/PartnerUpdateRequest.php" file-id="58364" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"PartnerUpdateRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/PaginateRequest.php" file-id="57433" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"PaginateRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/LoginRequest.php" file-id="57337" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="99">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LoginRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/RatingRequest.php" file-id="57440" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="250">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RatingRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Resources/CategoryResource.php" file-id="57461" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="467">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CategoryResource.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/CategoryRequest.php" file-id="57462" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CategoryRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/LandmarkRequest.php" file-id="57435" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LandmarkRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/DistrictRequest.php" file-id="57459" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DistrictRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/CommentStoreRequest.php" file-id="57424" managing-fs="1773502176881">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <element signature="e#37#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CommentStoreRequest.php","foregroundColor":-6445644,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "htaccess": {
+      "usageCount": 1,
+      "lastUsed": 1775303695348
+    },
+    "PHP": {
+      "usageCount": 81,
+      "lastUsed": 1775309909397
+    },
+    "Image": {
+      "usageCount": 15,
+      "lastUsed": 1775312115979
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1775223808483
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/srv/http/app/Models/Comment.php",
+    "/srv/http/app/Models/District.php",
+    "/srv/http/app/Models/LandmarkImage.php",
+    "/srv/http/app/Models/Rating.php",
+    "/srv/http/database/migrations/2026_04_03_151843_create_partners_table.php",
+    "/srv/http/app/Models/Partner.php",
+    "/srv/http/database/migrations/2026_04_03_114251_create_comments_table.php",
+    "/srv/http/database/migrations/2014_10_12_000000_create_users_table.php",
+    "/srv/http/app/Models/ImageLandmark.php",
+    "/srv/http/app/Http/Requests/LoginRequest.php",
+    "/srv/http/app/Http/Resources/PartnerResource.php",
+    "/srv/http/app/Http/Resources/CommentResource.php",
+    "/srv/http/app/Http/Controllers/UserCommentController.php",
+    "/srv/http/app/Http/Requests/GetCommentsRequest.php",
+    "/srv/http/app/Http/Resources/ProfileInfoResource.php",
+    "/srv/http/app/Http/Resources/LandmarkResource.php",
+    "/srv/http/app/Http/Requests/CommentStoreRequest.php",
+    "/srv/http/app/Http/Requests/PaginateRequest.php",
+    "/srv/http/app/Models/Landmark.php",
+    "/srv/http/database/migrations/2026_04_03_145837_create_image_landmarks_table.php",
+    "/srv/http/database/migrations/2026_04_03_154251_create_comments_table.php",
+    "/srv/http/database/migrations/2026_04_03_145956_create_ratings_table.php",
+    "/srv/http/app/Exceptions/Handler.php",
+    "/srv/http/app/Http/Resources/DistrictResource.php",
+    "/srv/http/app/Http/Resources/CategoryResource.php",
+    "/srv/http/app/Http/Requests/LandmarkRequest.php",
+    "/srv/http/app/Http/Controllers/AuthController.php",
+    "/srv/http/app/Http/Controllers/CommentController.php",
+    "/srv/http/app/Http/Controllers/DistrictController.php",
+    "/srv/http/app/Http/Controllers/ProfileController.php",
+    "/srv/http/app/Http/Requests/CategoryRequest.php",
+    "/srv/http/app/Http/Requests/DistrictRequest.php",
+    "/srv/http/app/Http/Requests/RatingRequest.php",
+    "/srv/http/app/Http/Requests/PartnerRequest.php",
+    "/srv/http/app/Http/Requests/PartnerUpdateRequest.php",
+    "/srv/http/app/Http/Controllers/PartnerController.php",
+    "/srv/http/app/Http/Requests/PopularLandmarksRequest.php",
+    "/srv/http/routes/api.php",
+    "/srv/http/app/Http/Controllers/LandmarkController.php",
+    "/srv/http/config/scribe.php",
+    "/srv/http/app/Http/Controllers/CategoryController.php"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ApacheConfig">
+      <summary usageCount="1" lastUsage="1775303695348" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1775223808485" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="81" lastUsage="1775309909397" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Exceptions}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http/Controllers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http/Requests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Http/Resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/app/Models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/database}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/database}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/database/migrations}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public/images}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public/images}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/public/images/partners}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///srv/http/routes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="http" />
+            <item name="http" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="http" />
+              <item name="dir{file:///srv/http}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.scribe" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".scribe" />
+                <item name="dir{file:///srv/http/.scribe}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                <item name="dir{file:///srv/http/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/Console" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Console" />
+                  <item name="dir{file:///srv/http/app/Console}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/Exceptions" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Exceptions" />
+                  <item name="dir{file:///srv/http/app/Exceptions}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Handler.php" />
+                    <item name="Handler.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/Http" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Http" />
+                  <item name="dir{file:///srv/http/app/Http}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Controllers" />
+                    <item name="dir{file:///srv/http/app/Http/Controllers}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="AuthController.php" />
+                      <item name="AuthController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CategoryController.php" />
+                      <item name="CategoryController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/CommentController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CommentController.php" />
+                      <item name="CommentController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Controller.php" />
+                      <item name="Controller.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/DistrictController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="DistrictController.php" />
+                      <item name="DistrictController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/LandmarkController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LandmarkController.php" />
+                      <item name="LandmarkController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/PartnerController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PartnerController.php" />
+                      <item name="PartnerController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Controllers/ProfileController.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ProfileController.php" />
+                      <item name="ProfileController.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Http/Middleware" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Middleware" />
+                    <item name="dir{file:///srv/http/app/Http/Middleware}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Requests" />
+                    <item name="dir{file:///srv/http/app/Http/Requests}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/CategoryRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CategoryRequest.php" />
+                      <item name="CategoryRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/CommentStoreRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CommentStoreRequest.php" />
+                      <item name="CommentStoreRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/DistrictRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="DistrictRequest.php" />
+                      <item name="DistrictRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/LandmarkRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LandmarkRequest.php" />
+                      <item name="LandmarkRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/LoginRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LoginRequest.php" />
+                      <item name="LoginRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/PaginateRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PaginateRequest.php" />
+                      <item name="PaginateRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/PartnerRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PartnerRequest.php" />
+                      <item name="PartnerRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/PartnerUpdateRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PartnerUpdateRequest.php" />
+                      <item name="PartnerUpdateRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/PopularLandmarksRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PopularLandmarksRequest.php" />
+                      <item name="PopularLandmarksRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/RatingRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RatingRequest.php" />
+                      <item name="RatingRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Requests/RegRequest.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RegRequest.php" />
+                      <item name="RegRequest.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Resources" />
+                    <item name="dir{file:///srv/http/app/Http/Resources}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/CategoryResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CategoryResource.php" />
+                      <item name="CategoryResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/CommentResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CommentResource.php" />
+                      <item name="CommentResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/DistrictResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="DistrictResource.php" />
+                      <item name="DistrictResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/LandmarkResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LandmarkResource.php" />
+                      <item name="LandmarkResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/PartnerResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="PartnerResource.php" />
+                      <item name="PartnerResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/Http/Resources/ProfileInfoResource.php" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ProfileInfoResource.php" />
+                      <item name="ProfileInfoResource.php" type="88303cf5:PhpFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Http/Kernel.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Kernel.php" />
+                    <item name="Kernel.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/Models" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Models" />
+                  <item name="dir{file:///srv/http/app/Models}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/Category.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Category.php" />
+                    <item name="Category.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/Comment.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Comment.php" />
+                    <item name="Comment.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/District.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="District.php" />
+                    <item name="District.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/ImageLandmark.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ImageLandmark.php" />
+                    <item name="ImageLandmark.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/Landmark.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Landmark.php" />
+                    <item name="Landmark.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/Partner.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Partner.php" />
+                    <item name="Partner.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/Rating.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Rating.php" />
+                    <item name="Rating.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/Models/User.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="User.php" />
+                    <item name="User.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/Providers" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Providers" />
+                  <item name="dir{file:///srv/http/app/Providers}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bootstrap" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bootstrap" />
+                <item name="dir{file:///srv/http/bootstrap}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                <item name="dir{file:///srv/http/config}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/app.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="app.php" />
+                  <item name="app.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/auth.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="auth.php" />
+                  <item name="auth.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/broadcasting.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="broadcasting.php" />
+                  <item name="broadcasting.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/cache.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="cache.php" />
+                  <item name="cache.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/cors.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="cors.php" />
+                  <item name="cors.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/database.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="database.php" />
+                  <item name="database.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/filesystems.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="filesystems.php" />
+                  <item name="filesystems.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/hashing.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="hashing.php" />
+                  <item name="hashing.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/logging.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="logging.php" />
+                  <item name="logging.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/mail.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="mail.php" />
+                  <item name="mail.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/queue.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="queue.php" />
+                  <item name="queue.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/sanctum.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="sanctum.php" />
+                  <item name="sanctum.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/scribe.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="scribe.php" />
+                  <item name="scribe.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/services.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="services.php" />
+                  <item name="services.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/session.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="session.php" />
+                  <item name="session.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/config/view.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="view.php" />
+                  <item name="view.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/database" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="database" />
+                <item name="dir{file:///srv/http/database}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/database/factories" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="factories" />
+                  <item name="dir{file:///srv/http/database/factories}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/database/migrations" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="migrations" />
+                  <item name="dir{file:///srv/http/database/migrations}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2014_10_12_000000_create_users_table.php" />
+                    <item name="2014_10_12_000000_create_users_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2014_10_12_100000_create_password_reset_tokens_table.php" />
+                    <item name="2014_10_12_100000_create_password_reset_tokens_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2019_08_19_000000_create_failed_jobs_table.php" />
+                    <item name="2019_08_19_000000_create_failed_jobs_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2019_12_14_000001_create_personal_access_tokens_table.php" />
+                    <item name="2019_12_14_000001_create_personal_access_tokens_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_114116_create_categories_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_114116_create_categories_table.php" />
+                    <item name="2026_04_03_114116_create_categories_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_114643_create_districts_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_114643_create_districts_table.php" />
+                    <item name="2026_04_03_114643_create_districts_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_114750_create_landmarks_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_114750_create_landmarks_table.php" />
+                    <item name="2026_04_03_114750_create_landmarks_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_145837_create_image_landmarks_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_145837_create_image_landmarks_table.php" />
+                    <item name="2026_04_03_145837_create_image_landmarks_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_145956_create_ratings_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_145956_create_ratings_table.php" />
+                    <item name="2026_04_03_145956_create_ratings_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_151843_create_partners_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_151843_create_partners_table.php" />
+                    <item name="2026_04_03_151843_create_partners_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/database/migrations/2026_04_03_154251_create_comments_table.php" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="2026_04_03_154251_create_comments_table.php" />
+                    <item name="2026_04_03_154251_create_comments_table.php" type="88303cf5:PhpFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/database/seeders" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="seeders" />
+                  <item name="dir{file:///srv/http/database/seeders}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/database/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                <item name="dir{file:///srv/http/public}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/images" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="images" />
+                  <item name="dir{file:///srv/http/public/images}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/public/images/partners" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="partners" />
+                    <item name="dir{file:///srv/http/public/images/partners}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/public/images/partners/1.jpg" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="1.jpg" />
+                      <item name="1.jpg" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/public/images/partners/wp7528877-minimalist-forest-wallpapers.jpg" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="wp7528877-minimalist-forest-wallpapers.jpg" />
+                      <item name="wp7528877-minimalist-forest-wallpapers.jpg" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/vendor" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vendor" />
+                  <item name="dir{file:///srv/http/public/vendor}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/.htaccess" />
+                    </map>
+                  </attributes>
+                  <data iconPath="fileTypes/htaccess.svg" iconPlugin="com.intellij" isLeaf="true" text=".htaccess" />
+                  <item name=".htaccess" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/favicon.ico" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="favicon.ico" />
+                  <item name="favicon.ico" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/index.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="index.php" />
+                  <item name="index.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/robots.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="robots.txt" />
+                  <item name="robots.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/resources" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                <item name="dir{file:///srv/http/resources}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/routes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="routes" />
+                <item name="dir{file:///srv/http/routes}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/routes/api.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="api.php" />
+                  <item name="api.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/routes/channels.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="channels.php" />
+                  <item name="channels.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/routes/console.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="console.php" />
+                  <item name="console.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/routes/web.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="web.php" />
+                  <item name="web.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/storage" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="storage" />
+                <item name="dir{file:///srv/http/storage}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/testRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="tests" />
+                <item name="dir{file:///srv/http/tests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vendor" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vendor" />
+                <item name="dir{file:///srv/http/vendor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/editorConfig.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env.example" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env.example" />
+                <item name=".env.example" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/artisan" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="artisan" />
+                <item name="artisan" type="88303cf5:PhpFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/composer.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="composer.json" />
+                <item name="composer.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/composer.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="composer.lock" />
+                <item name="composer.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/phpunit.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="phpunit.xml" />
+                <item name="phpunit.xml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vite.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="vite.config.js" />
+                <item name="vite.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24936628" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.22923408" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.22923408" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.22923408" left="0.24936628" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24936628" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.15803668" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.21952535" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.21952535" left="0.24936628" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="750" height="525" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110" timestamp="1775291705039">
+      <screen x="0" y="0" width="1600" height="1000" />
+    </state>
+    <state x="0" y="0" width="750" height="525" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110/0.0.1600.1000@0.0.1600.1000" timestamp="1775291705039" />
+    <state x="283" y="95" key="SettingsEditor.ideScale=110" timestamp="1775298385518">
+      <screen x="0" y="0" width="1600" height="1000" />
+    </state>
+    <state x="283" y="95" key="SettingsEditor.ideScale=110/0.0.1600.1000@0.0.1600.1000" timestamp="1775298385518" />
+    <state x="0" y="0" width="735" height="169" key="search.everywhere.popup.ideScale=110" timestamp="1775294659557">
+      <screen x="0" y="0" width="1600" height="1000" />
+    </state>
+    <state x="0" y="0" width="735" height="169" key="search.everywhere.popup.ideScale=110/0.0.1600.1000@0.0.1600.1000" timestamp="1775294659557" />
+    <state x="506" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog.ideScale=110" timestamp="1775312091446">
+      <screen x="0" y="0" width="1600" height="1000" />
+    </state>
+    <state x="506" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog.ideScale=110/0.0.1600.1000@0.0.1600.1000" timestamp="1775312091446" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Models/Landmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_154251_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_151843_create_partners_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_145956_create_ratings_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_145837_create_image_landmarks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="15" column="89" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_114750_create_landmarks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_114643_create_districts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2026_04_03_114116_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775301559_image 1 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775302374_image 1 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775301559_Фото.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775303397_Фото.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775303397_res.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775303397_image 2 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775303670_image 2 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/DistrictResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/channels.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/District.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/CategoryResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DistrictController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004">
+          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProfileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CommentStoreRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CategoryRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/DistrictRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/LandmarkRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/LoginRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/PaginateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/RatingRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/RegRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775303835_image 2 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/PartnerRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="42" column="22" selection-end-line="50" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/partners/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/partners/802645.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/partners/wp7528877-minimalist-forest-wallpapers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/PartnerUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#37#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/PopularLandmarksRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5704">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Partner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PartnerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1780">
+          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775311986_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775311875_image 2 (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/1775312106_wp7528877-minimalist-forest-wallpapers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LandmarkController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/scribe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="255" column="2" lean-forward="true" selection-start-line="255" selection-start-column="2" selection-end-line="255" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="142" column="11" lean-forward="true" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="11" />
+          <folding>
+            <element signature="e#40#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

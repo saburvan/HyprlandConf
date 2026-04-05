@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="com.obelisk.onedarkdarker" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Islands Dark" scheme="_@user_One Dark Darker" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <execution />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1773502524714</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1773502524714</updated>
+          <workItem from="1773502525749" duration="588000" />
+        </task>
+        <servers />
+      </component>
+      <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="588000" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="468" y="270" key="SettingsEditor.ideScale=125" timestamp="1773502535674">
+          <screen x="0" y="0" width="1920" height="1200" />
+        </state>
+        <state x="468" y="270" key="SettingsEditor.ideScale=125/0.0.1920.1200" timestamp="1773502535674" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

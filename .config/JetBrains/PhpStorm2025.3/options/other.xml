@@ -1,0 +1,81 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="NewScratchFile" />
+      <option value="ChooseRuntime" />
+      <option value="ShowRegistry" />
+      <option value="EditCustomVmOptions" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="ideScale" value="1.1" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.12328767",
+    "KEYMAP": "refor\nformat",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "MarketplacePluginsSearchHistory": "one dark darker\none da\no\ndark theme\ndark the",
+    "NextRunPlatformUpdateBuild": "PS-253.32098.40",
+    "NextRunPlatformUpdateSelfBuild": "PS-253.31033.138",
+    "NextRunPlatformUpdateVersion": "2025.3.4",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.PHP.Completion.Ranking.Disable.RunOnce": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "change IDE scale",
+    "evlsprt3.253": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "253.31033.138",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "gotit.previous.run": "PS-253.31033.138",
+    "ide.islands.ab3": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_One Dark Darker",
+    "registry.to.advanced.settings.migration.build": "PS-253.31033.138",
+    "tab_selection_count": "5",
+    "terminal.gen.one.option.visible": "false",
+    "ts.lib.d.ts.version": "5.9.3",
+    "whats.new.last.shown.version": "2025-3.3-31033-e5cedd19e17b9b25f6c707d860bedf2fffbffefb"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/saburvan/Документы/!СОРТИРОВКА/react/vite-project",
+      "/srv/http",
+      "/home/saburvan/Документы/ShoeStoreLaravel"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1773504188113
+  },
+  &quot;proposedTips&quot;: {
+    &quot;SpeedSearch&quot;: 1773504187970
+  },
+  &quot;tipsOrderSeed&quot;: 1773503199055
+}</component>
+</application>

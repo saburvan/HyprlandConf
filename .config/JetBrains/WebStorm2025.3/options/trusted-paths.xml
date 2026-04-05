@@ -1,0 +1,32 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/Документы/!СОРТИРОВКА/react/vite-project/react_example_project" value="true" />
+        <entry key="$USER_HOME$/Документы/123/Google Drive/Проекты/Веб/Проекты/1.Верстка/KinoArena" value="true" />
+        <entry key="$USER_HOME$/Документы/Google Drive/Проекты/Веб/Проекты/4. Готовые проекты/whiteboard" value="true" />
+        <entry key="$USER_HOME$/Документы/Google Drive/Проекты/Веб/Проекты/WhiteBoard" value="true" />
+        <entry key="$USER_HOME$/Документы/Google Drive/Проекты/Веб/Проекты/Фронтэнд/ReactProject" value="true" />
+        <entry key="$USER_HOME$/Документы/hacaton" value="true" />
+        <entry key="$USER_HOME$/Документы/react/vite-project" value="true" />
+        <entry key="$USER_HOME$/Документы/sushi" value="true" />
+        <entry key="$USER_HOME$/Документы/untitled" value="true" />
+        <entry key="$USER_HOME$/Документы/whiteboard" value="true" />
+        <entry key="/srv/http" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="/srv" />
+        <option value="$USER_HOME$/Документы/react" />
+        <option value="$USER_HOME$/Документы/123/Google Drive/Проекты/Веб/Проекты/1.Верстка" />
+        <option value="$USER_HOME$/Документы/Google Drive/Проекты/Веб/Проекты/4. Готовые проекты" />
+        <option value="$USER_HOME$/Документы/Google Drive/Проекты/Веб/Проекты" />
+        <option value="$USER_HOME$/Документы" />
+      </list>
+    </option>
+  </component>
+</application>

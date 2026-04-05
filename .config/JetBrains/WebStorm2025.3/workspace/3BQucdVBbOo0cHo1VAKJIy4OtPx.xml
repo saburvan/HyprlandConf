@@ -1,0 +1,182 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="sushi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2fcyr791u8aw7" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;CSS&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1774433705989
+    },
+    &quot;JavaScript&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1774433728460
+    },
+    &quot;HTML&quot;: {
+      &quot;usageCount&quot;: 12,
+      &quot;lastUsed&quot;: 1774434570774
+    },
+    &quot;RNG Compact&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1774434473813
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/saburvan/Документы/sushi/js/data.js&quot;,
+    &quot;/home/saburvan/Документы/sushi/js/index.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/js/clients.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/index.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/clients.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/client_form.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/sushi.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/sushi_form.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/orders.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/order_form.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/order_view.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/ingredients.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/ingredient_form.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/workers.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/worker_form.html&quot;,
+    &quot;/home/saburvan/Документы/sushi/css/style.css&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1774433705990" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="12" lastUsage="1774434570774" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1774433728460" />
+    </language>
+    <language id="RELAX-NG">
+      <summary usageCount="1" lastUsage="1774434473813" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sushi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/saburvan/Документы/sushi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="sushi" />
+            <item name="sushi" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="sushi" />
+              <item name="dir{file:///home/saburvan/Документы/sushi}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/saburvan/Документы/sushi/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18411264" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.18411264" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="330" width="530" height="568" key="FileChooserDialogImpl.ideScale=130" timestamp="1774514531704">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="690" y="330" width="530" height="568" key="FileChooserDialogImpl.ideScale=130/0.0.1920.1200@0.0.1920.1200" timestamp="1774514531704" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/data.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/clients.html" />
+    <entry file="file://$PROJECT_DIR$/client_form.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/modules/intellij.relaxng.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="302" column="44" lean-forward="true" selection-start-line="302" selection-start-column="44" selection-end-line="302" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sushi.html" />
+    <entry file="file://$PROJECT_DIR$/sushi_form.html" />
+    <entry file="file://$PROJECT_DIR$/orders.html" />
+    <entry file="file://$PROJECT_DIR$/order_form.html" />
+    <entry file="file://$PROJECT_DIR$/order_view.html" />
+    <entry file="file://$PROJECT_DIR$/ingredients.html" />
+    <entry file="file://$PROJECT_DIR$/ingredient_form.html" />
+    <entry file="file://$PROJECT_DIR$/workers.html" />
+    <entry file="file://$PROJECT_DIR$/worker_form.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+  </component>
+</project>
